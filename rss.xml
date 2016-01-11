@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[K Test]]></title>
         <description><![CDATA[K Test]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/k-test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jan 2016 14:01:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Jan 2016 14:01:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/k-test/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>3 RD</p>]]></description>
+            <link>https://thegrid.ai/k-test/d93d1737-8a60-4822-b788-07affd25f71e/index.html</link>
+            <guid isPermaLink="false">d93d1737-8a60-4822-b788-07affd25f71e</guid>
+            <pubDate>Mon, 11 Jan 2016 14:01:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[FIRST TRY]]></title>
             <description><![CDATA[<article><h1>FIRST TRY</h1><p>i LOVE SUCHI</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba3316de1f9b2b615edda47f800527b1ecd9abb9.jpg"></article>]]></description>
-            <link>undefinedfirst-try/index.html</link>
+            <link>https://thegrid.ai/k-test/first-try/index.html</link>
             <guid isPermaLink="false">04758f30-a2e5-4203-a52f-fb560cc6a644</guid>
             <pubDate>Mon, 11 Jan 2016 14:01:30 GMT</pubDate>
         </item>
