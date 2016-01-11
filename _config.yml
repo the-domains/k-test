@@ -1,7 +1,7 @@
 name: K Test
 favicon: null
-layout_spectrum: 0.3904084770474583
-typography_spectrum: 0.8490368591155857
+layout_spectrum: 1
+typography_spectrum: 0.54863
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.4256553999148309
+  brandStrength: 0.5625
   lightness: 0.028101133182644844
   saturation: 0.43340591597370803
   rhythmicContrast: 0.4417115426622331
